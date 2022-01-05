@@ -22,8 +22,13 @@ body{
 }
 .container-2{
     display: flex;
-    margin-bottom: 140px;
+    margin-bottom: 150px;
     
+}
+
+.container-3{
+    display: flex;
+    margin-bottom: 140px;
 }
 
 .intro-half{
@@ -37,6 +42,12 @@ body{
 h1{
     font-size: 50px;
     margin: 10px;
+}
+h2{
+    font-size: 40px;
+}
+p{
+    font-weight: 700;
 }
 .intro-border{
     border-left: 4px solid orange;
@@ -77,4 +88,24 @@ h1{
     margin-left: 1%;
     margin-right: 11%;
     background-color: rgb(245, 210, 245);
+}
+
+.travel-1{
+    width: 40%;
+    padding: 2%;
+    margin-left: 10%;
+}
+.travel-2{
+    width: 40%;
+    padding:2%;
+}
+
+.travel-1 img{
+    width: 100%
+}
+.shape-3{
+    background-image: url(images/shapes/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position-x: 10%;
+    background-position: 10%;
 }

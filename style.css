@@ -31,6 +31,11 @@ body{
     margin-bottom: 140px;
 }
 
+.container-4{
+    display: flex;
+    margin-bottom: 140px;
+}
+
 .intro-half{
     width: 50%;
     padding: 3%;
@@ -108,4 +113,16 @@ p{
     background-repeat: no-repeat;
     background-position-x: 10%;
     background-position: 10%;
+}
+
+.book-1{
+    width: 40%;
+    padding: 2%;
+}
+.book-2{
+    width: 40%;
+    padding: 2%;
+}
+.book-2 img{
+    width: 105%;
 }

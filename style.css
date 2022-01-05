@@ -23,9 +23,7 @@ body{
 .container-2{
     display: flex;
     margin-bottom: 140px;
-    margin-left: 5%;
-    margin-right: 5%;
-    padding: 5%;
+    
 }
 
 .intro-half{
@@ -53,8 +51,7 @@ h1{
     border: 0px solid orange;
     width: 25%;
     height: 350px;
-    margin: 1.5%;
-    border-radius: 10px;
+    border-radius: 15px;
     
 }
 .interest img{
@@ -64,11 +61,17 @@ h1{
 }
 
 .background-1{
+    margin-right: 1%;
+    margin-left: 11%;
     background-color: rgb(247, 215, 188);
 }
 .background-2{
+    margin-left: 0.5%;
+    margin-right: 0.5%;
     background-color: rgb(195, 218, 240);
 }
 .background-3{
+    margin-left: 1%;
+    margin-right: 11%;
     background-color: rgb(245, 210, 245);
 }

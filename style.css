@@ -47,17 +47,20 @@ h1{
 }
 
 .interest{
-    text-align: center;
+    padding-inline: 10px;
     border: 0px solid orange;
     width: 25%;
     height: 350px;
     border-radius: 15px;
     
 }
+
 .interest img{
     width: 100px;
     height: 100px;
     padding: 5%;
+    margin-left: 20px;
+
 }
 
 .background-1{

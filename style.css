@@ -20,6 +20,13 @@ body{
     display: flex;
     margin-bottom: 140px;
 }
+.container-2{
+    display: flex;
+    margin-bottom: 140px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 5%;
+}
 
 .intro-half{
     width: 50%;
@@ -36,4 +43,32 @@ h1{
 .intro-border{
     border-left: 4px solid orange;
     border-image-slice: 1;
+}
+.text-centre{
+    text-align: center;
+}
+
+.interest{
+    text-align: center;
+    border: 0px solid orange;
+    width: 25%;
+    height: 350px;
+    margin: 1.5%;
+    border-radius: 10px;
+    
+}
+.interest img{
+    width: 100px;
+    height: 100px;
+    padding: 5%;
+}
+
+.background-1{
+    background-color: rgb(247, 215, 188);
+}
+.background-2{
+    background-color: rgb(195, 218, 240);
+}
+.background-3{
+    background-color: rgb(245, 210, 245);
 }

@@ -142,3 +142,15 @@ p{
     width: 40%;
     padding: 2%;
 }
+
+.footer-1{
+    font-family: 'Vujahday Script', cursive;
+}
+
+footer{
+    text-align: center;
+    color: white;
+    background-color: black;
+    position: relative;
+   
+}

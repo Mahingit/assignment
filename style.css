@@ -35,6 +35,10 @@ body{
     display: flex;
     margin-bottom: 140px;
 }
+.container-5{
+    display: flex;
+    margin-bottom: 140px;
+}
 
 .intro-half{
     width: 50%;
@@ -125,4 +129,16 @@ p{
 }
 .book-2 img{
     width: 105%;
+}
+
+.aworld-1{
+    width: 40%;
+    padding: 2%;
+}
+.aworld-1 img{
+    width: 105%;
+}
+.aworld-2{
+    width: 40%;
+    padding: 2%;
 }
